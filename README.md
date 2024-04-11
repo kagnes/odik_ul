@@ -4,7 +4,7 @@ Ez a repozitórium kiegészítő anyagokat tartalmaz a _Szimultán igekötőzés
 
 ### Letölthető mappák, szövegfájlok:
 
-- `hgc_ud_sample`: Ez a mappa négy, véletlenszerűen kiválasztott szövegfájlt tartalmaz az MNSz2-UD korpuszból. A teljes korpuszt nem tehetjük nyilvánosan elérhetővé, így a kódokat ezen a mintán lehet kipróbálni.
+- `hgc_ud_sample`: Ez a mappa kettő, véletlenszerűen kiválasztott szövegfájlt tartalmaz az MNSz2-UD korpuszból. A teljes korpuszt nem tehetjük nyilvánosan elérhetővé, így a kódokat ezen a mintán lehet kipróbálni.
 - `manual_corrections`: Ebben a mappában érhetőek el a kézi javításhoz felhasznált, illetve kézi javítás eredményeként létrejött anyagok. Bővebben:
 	- `lemma_list_complete.tsv`: A cikk 3.3 alfejezetében bemutatott adattábla összes igelemmája tokengyakorisággal együtt (5839 db lemma). Ennek a listának az elemeit néztük át egyesével.
 	- `lemma_list_to_be_filtered.tsv`: Itt láthatók azok a lemmák (683 db), amelyek a vizsgált téma szempontjából hamis pozitív találatok és kiszűrendők (pl. a *közül*, amely sosem egy 'közzé válik' értelmű ige, hanem névutó).
