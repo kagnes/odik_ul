@@ -1,0 +1,293 @@
+0	rockeres diszkós metálos dallamos rockos slágeres popos világzenés svédes germános pop hard balkános szigetes klipes
+1	vidékies falusias városias régies népies szecessziós barokkos
+2	brites skandinávos művészies amerikaias japános csehes szovjetes
+3	angolos angol horvátos székelyes tótos szlovákos
+4	brazilos szerbes romás
+5	keleties arabos spanyolos latinos magyaros olaszos franciás
+6	cigányos zsidós görögös törökös lengyeles romános németes oroszos szlávos
+7	száraz nedves vizes hűvös nyirkos párás hideg meleg langyos forró
+8	langy hűs magaslati havas jeges
+9	felhős borús ködös tavaszias télies esős szeles
+10	zűrös nyugalmas mozgalmas
+11	sivár rideg komor szeszélyes zordon zord fagyos
+12	füstös külvárosi lomos csótányos turistás sétálóutcás plázás gettós
+13	otthonos kényelmes komfortos kuckós lakályos tágas
+14	barátságos udvarias szívélyes elvtársias családias otthonias
+15	népes tekintélyes patinás rangos neves jeles párizsi híres legendás
+16	balkáni mediterrán északi alpesi szárazföldi honos
+17	angolszász antik újkori oszlopos egyszemélyes egész észt
+18	öreges öreguras betyáros parasztos uras pesties peckes örömittas
+19	-kész -nehéz -rossz -halk
+20	harckész útrakész tökélestes nett tökéles
+21	sokszoros ezerszeres százszoros többszörös négyszeres
+22	bizalmas nyilvános személyes közvetlen
+23	végleges jogerős törvényes jogos jóhiszemű
+24	sorozatos szórványos tömeges számszerű aránytalan arányos rendszeres állandó egyenes párhuzamos
+25	terjes teles teljes szöges kísérteties gyökeres végletes
+26	nehézkes döcögős rendes sima nehéz egyszerű gyors
+27	gondos szakszerű világos egyértelmű pontos helyes
+28	szentes ebes jelképes ünnepélyes lelkes rendületlen serény bősz tevékeny aktív sikeres sikertelen
+29	hideglelős mélabús szomorkás delejes mámoros halvány halovány szúrós fátyolos sejtelmes
+30	csendes csöndes harsány zajos éktelen halk hangos
+31	lomha szapora sebes tüzes szilaj vad
+32	bamba csúfondáros kaján pimasz szemtelen pajkos kacér
+33	bátortalan szégyenlős suta esetlen ügyetlen erőtlen gyámoltalan
+34	makacs csökönyös gépies görcsös merev
+35	éber lázas álmos nyűgös zákányos kapatos kótyagos kába
+36	tehetetlen tanácstalan tétlen szótlan néma
+37	morcos ideges dühös mérges bús haragos kedvetlen bánatos
+38	visszhangos érces öblös érdes karcos tompa fémes
+39	kecses légies selymes bársonyos finom lágy puha
+40	vaskos hajlékony vékony vastag lötyögős laza feszes
+41	férfias nőies dögös csinos bájos üde fiatalos életvidám érzelmes
+42	katonás pedáns
+43	slampos lezser decens elegáns szolid
+44	férfiatlan nőietlen asszonyos ledér
+45	picsás kurvás öregasszonyos hippis nagymamás
+46	fiús lányos felnőttes nagylányos
+47	trükkös szabálytalan gyanús
+48	alattomos gusztustalan pofátlan kínos rémes rossz durva csúnya
+49	rutinos technikás
+50	okos ügyes bátor óvatos kemény szívós öntudatos harcias vehemens
+51	kifogástalan tökéletes remek pazar
+52	pofás aranyos klassz kerek fényes vidám szép
+53	combos fickós gázos parás
+54	foghíjas szerény szegényes gyér felemás vegyes kérdőjeles rózsás harmatos acélos
+55	új korszerű drága olcsó ésszerű takarékos gazdaságos
+56	divatos népszerű extrém ritka szerencsés értékes hasznos termékeny gazdag dús sokszínű igényes karakteres beszédes
+57	eklatáns ékes
+58	nyomós fontos időszerű népszerűtlen kényes fajsúlyos
+59	hatástalan káros veszélyes
+60	tudatos tudattalan józan tiszta szerves tartós szilárd egészséges fitt kész friss nyers
+61	hatalmas nagy merész kicsi kicsiny piciny jelentéktelen apró
+62	széles tág szűk rövid bő tömény sűrű
+63	eleven élénk szoros mély heves éles
+64	magas alacsony súlyos komoly enyhe gyenge erős lanyha engedékeny szigorú
+65	tömör sarkos magvas frappáns elmés dagályos terjengős szlenges magyartalan epés parlagias tanáros sznobos zanzás
+66	verses regényes költeményes novellás
+67	dogmás formátumos valószerű irodalmias tárgyias művészietlen kosztolányis titoktalan életes kafkai lidérces
+68	silány igénytelen selejtes értéktelen kommersz gagyi jellegtelen középszerű
+69	giccses szirupos nyálas morbid unalmas egysíkú közhelyes sablonos
+70	bulváros blőd nívótlan belterjes felszínes sekélyes
+71	szövevényes bonyolult homályos zavaros rendezetlen bizonytalan reménytelen
+72	fals hibás valótlan hamis valós hiteles
+73	épkézláb értelmes normális
+74	hiteltelen komolytalan evidens érdektelen lényegtelen fajsúlytalan súlytalan eszköztelen
+75	vagyonos módos fiatal koros idős
+76	üzleties nyugatias polgárias dekadens világias anyagias
+77	magasztos nemes testvéries emberséges emberies
+78	köznapi hétköznapi puszta idegen táji természeti egyetemes szellemi társadalmias kasztos
+79	keresztény pogány szektás vallásos vallástalan
+80	foganatos erőtelen szentségtelen istentelen pogányos ítéletes látszatos kereszténytelen
+81	gáláns fukar közönséges utálatos komisz szeretetlen illetlen goromba
+82	vérmes hiú nyakas eszes ravasz
+83	tunya léha szertelen nemtörődöm önállótlan koravén
+84	beteges állatias perverz gyermeki kamaszos gyermeteg gyermekded
+85	demagóg álszent hazug
+86	kicsinyes alantas aljas korrupt gyáva hitvány jellemtelen
+87	véres vértelen halálos kegyetlen embertelen gyilkos gonosz csúf rút
+88	névtelen arctalan személytelen érzéketlen közönyös közömbös érzéktelen érzéstelen
+89	időtlen végtelen örök halhatatlan
+90	idomtalan formátlan alaktalan élettelen testetlen anyagtalan
+91	csökevényes torz tökéletlen ép csonka
+92	frigyes vidor fondor nagyságos méltóságos idősb agg
+93	kegyes állhatatos engedelmes alázatos gőgös kevély szelíd nyájas jámbor bölcs diadalmas győzedelmes istenes magános szótalan
+94	szerelmes szerelemes magányos boldog boldogtalan hálás édes kedves
+95	kövértelen -vak nyalánk fullánkos négyszemű varázstalan vastagbőrű
+96	világtalan vak siket süket
+97	árva anyátlan apátlan szerencsétlen ártatlan nincstelen szegény
+98	részeg ittas drogos csöves
+99	balfasz töketlen kretén gyöpös sznob
+100	taknyos kanos hisztis zabos anyás
+101	féltékeny irigy béna hülye buta lusta finnyás
+102	mocskos piszkos ótvaros ordas retkes nyüves tetves büdös
+103	marha bitang korcs mamlasz fasz szar vacak férges pudvás gaz
+104	morc szószátyár habókos zsémbes szenilis dadogós
+105	részeges iszákos bolond vén öreg
+106	hasas púpos csámpás bandzsa kancsal sánta kehes fogatlan girhes lompos
+107	totyakos trottyos pohos potrohos hájas tokás
+108	pocakos szemüveges kalapos köpcös szakállas bajszos kövér kopasz néger
+109	formás izmos karcsú testes szálkás sovány
+110	daliás délceg sudár deltás hórihorgas nyurga vállas zömök nyúlánk
+111	karikás könnyes szarkalábas csipás hályogos táskás
+112	meztelen pucér csupasz szőrtelen szőrös
+113	bongyor loboncos göndör szőke
+114	kócos borostás csimbókos borzas bozontos
+115	szederjes ráncos ragyás szeplős pattanásos ripacsos mongolos
+116	ingoványos göröngyös rögös síkos latyakos sáros saras tócsás úttalan szerpentines murvás kátyús nyomvályús pocsolyás gödrös buckás
+117	teléres magmás üledékes karbonátos dolomitos karsztos
+118	mésztelen podzolos vályogos iszapos agyagos törmelékes limonitos palás meszes
+119	növényes korallos algás
+120	sekély hínáros zátonyos kákás békanyálas posványos
+121	sziklás kopár homokos köves
+122	dombos lankás lejtős meredek
+123	tőzeges szikes vizenyős zsombékos lápos mocsaras parlagos sztyeppes szavannás sivatagos
+124	térséges cseppköves árkos tuskós partos pusztás nádas cserjés bozótos sűrűs páfrányos árnyas árnyékos gazos gyomos füves gyepes erdős
+125	feketekávés bonbonos coca-colás sörös kólás mangalicás Szin-es túros szelés parazsas kotyogós pillés cefrés rozés
+126	mézes mazsolás csokis banános margarinos pudingos karamelles túrós virslis lekváros sajtos pulykás gombócos
+127	paprikátlan leves lángos tésztás darás grízes kovászos paprikás fokhagymás szalonnás
+128	pikáns szaftos házias ízes zamatos fanyar fűszeres csípős
+129	záp kukacos zsizsikes avas
+130	folyós csirizes szottyos pépes kozmás íztelen ízetlen faggyús zsírtalan leveses mócsingos
+131	narancsos habos krémes ropogós
+132	kanalas tejes szemes
+133	olajos ecetes sós korpás zsíros híg
+134	szögletes csúcsos négyszögletes hullámos hegyes lapos keskeny
+135	sík görbe konkáv ferde vízszintes függőleges központos sugaras karéjos
+136	tetős tornyos téglás
+137	portalan levegős tömbös
+138	üveges tükrös rácsos
+139	tölcséres kagylós térhálós üreges kúpos
+140	egyterű szabadidő-autós sportos áramvonalas
+141	hengeres küllős csuklós blokkos turbós tagos lemezes cellás chipes perselyes
+142	réses karos zárlatos csapágyas
+143	ballonos parafás léces tokos szíjas láncos golyós csigás
+144	szénsavas cukros buborékos bubis savas lúgos nitrátos szulfátos
+145	sztatikus légnemű cseppfolyós breccsás amorf kristályos szemcsés
+146	nyálkás nyúlós ragacsos szagtalan színtelen
+147	filces géles zselés
+148	lyukacsos lukacsos márványos rücskös viaszos szivacsos kocsonyás rostos gyantás szálas
+149	poros pókhálós salétromos dohos penészes
+150	romos néptelen gazdátlan üres
+151	lúdbőrös libabőrös
+152	csatakos lucskos vízköves trutyis dzsuvás koszos szutykos maszatos szagos
+153	lábas szemetes kuka rongy szennyes
+154	likas lyukas rozsdás fogas gumis zsebes
+155	pacás szamárfüles négyzetrácsos krétás itatós
+156	kaolinos kőzetes hamus szurkos kátrányos cementes puklis kráteres
+157	pixeles szellemképes életlen színes szines árnyalatos mattos
+158	vörös barna fekete fehér zöld kék sárga piros
+159	tarjagos fakó fénytelen sötét szürke kékes zöldes sárgás opálos zöldeskék szivárványos rózsaszínű lila hófehér ezüstös
+160	-piros -fehér szilvakék drapp
+161	kreol kreolos rózsaszínes bronzos
+162	szilánkos jobb bal
+163	kérges enyves cafrangos rojtos cakkos deres rongyos
+164	hurkos horgos eres gyűrűs szeges villás kampós bunkós karmos bütykös
+165	kovás szarus öles taplós
+166	seprűs fátylas lebernyeges gatyás
+167	kockás csíkos pöttyös
+168	fodros csipkés buggyos pántos
+169	gubancos nemezes bolyhos szöszös fürtös taréjos bodor pelyhes pihés bodros bojtos
+170	csomótlan sörtés barázdás hártyás redős húsos csontos száras bőrös csecses hurkás párnás
+171	barlangos mirigyes porcos kötőszövetes
+172	fogköves szuvas gócos
+173	koszmós varas heges pörkös nyákos hólyagos
+174	atkás tályogos savós gennyes fekélyes sömörös vérzékeny ödémás visszeres
+175	vírusos baktériumos gombás burkos mikroszkópos rákos sejtes
+176	alzheimeres köszvényes gyomorfekélyes heveny csontritkulásos tünetes kórós göbös
+177	ekcémás allergiás asztmás láztalan náthás köhögős
+178	lelences gazdás gazdis bolhás rühes rühös szopós vemhes
+179	golyvás begyes sörényes pettyes bóbitás tarajos gyapjas pikkelyes bundás foltos cirmos
+180	kotlós búbos varacskos kerge agancsos varangyos
+181	sertés gerinces teknős emlős állat ivartalan ikrás
+182	óriás törpe szárnyas tollas farkas szarvas csikasz kutya szamár
+183	apályos aszályos fagykáros sarjas
+184	szedres gyümölcsös aszús ásványos talajos kalászos bogyós csonthéjas
+185	csenevész satnya terebélyes göcsörtös tüskés reves odvas üszkös
+186	dudvás mézgás zuzmós kőrises tarackos rizómás gumós örökzöld fás lombos
+187	virágos illatos cserepes
+188	szirmos ernyős barkás indás csokros
+189	fias csírás gerezdes rügyes leveles bimbós
+190	somos kecskés bogos balog kardos dános melles ormos bokros mezős boros veres vados gyökös machos hamvas cseres hámos gallyas kévés hollós kondor kádas birkás jegenyés
+191	rezes kásás lisztes szappanos
+192	sarlós üszögös mohás mohos szenes kormos szalmás
+193	masszás körmös manikűrös kozmetikus
+194	éjszakás bábás csecsemős babás ikres
+195	szülés terhes leprás orvos beteg
+196	kamasz iskolás gyermekes gyerekes kertes házas családos
+197	nyelves cicis csöcsös facér férjes nős makrancos fess stramm
+198	após anyós inas özvegy hitves
+199	szomszéd ismerős rokon kedvenc névrokon hölgyismerős
+200	elegy vonzás csáb ganés munkabírás
+201	szánás derű vágyódás harag aggódás
+202	társadalmas közneves állandós orvosismerős derek imás kisebes sokas
+203	ősz éh edés
+204	apus asszonypajtás ágas rasztás fett alis matt
+205	almos elves plazás profis kevesebb több drágább gyorsabb kisebb
+206	gőzös utas töltőtollas helyettes rezidens kötvényes adós tulajdonos szövetséges rivális cinkos örökös
+207	lépes államos ENSZ-es tanús reszes varos létes vényes merős
+208	tulajdon közel véletlen jelen részes köz
+209	lobos ószász szleng közmondás irás adás
+210	tenyeres öklös térdes könyökös segges visszakezes
+211	körös krosszos BMW-s realos salakos kondis kokszos bikás hernyós
+212	játékos kapus dobás fejes
+213	kajakos pólós pirók finnes páros babos
+214	céhes bádogos iparos tolvaj kontár gebines tőkés
+215	sírköves butikos boltos újságárus vásáros bazáros
+216	milliomos konyhás pénzes bankos amerikás piacos reklámos üzletes
+217	kanászos korcsos oláhos legényes
+218	hárfás harmonikás brácsás
+219	bábos zenés vásári kézműves
+220	szarkás gesztes gyöngyös principális csajkás pörös zálogos
+221	rác avar templomos fríz tudós vitéz hős harcos
+222	zászlós páncélos dárdás paripás málhás lovas csikós
+223	setét lámpás kaszás tátos pipás pajtás
+224	magyar jugoszláv csehszlovák kínai koreai osztrák skót cseh svéd dán
+225	csángó cigány vend tót sváb cipszer szász jász
+226	mór méd gót vizigót görög török római etruszk szláv hun
+227	kopt grúz kurd szír
+228	baszk szárd gall karacsáj lív szorb
+229	teknősbékás szobros disznós bácsis hangyás medvés pókos szittyós békás legyes
+230	hüllős kutyás malacos állatos macskás pokrócos hupikék cirkuszos
+231	egeres elefántos figurás zsiráfos
+232	kígyós sárkányos pingvines farkasos majmos denevéres indiános ördögös
+233	blikkes indexes offtopic kurucinfós anyázós alpári
+234	klubos celebes tévés könyves napilapos magazinos sztáros mangás rajzfilmes
+235	sátános nácis szappanoperás thrilleres maffiás rendőrös zombis
+236	ősemberes halloweenes dzsungeles cápás bálnás
+237	történetes tekergős kérdezős szexes
+238	mémes eladós kismacskás cukis darazsas molyos valentinos
+239	szörnyeteges négeres cyberpunkos kéményseprős pávás apácás madonnás messiásos bravós
+240	jogászos főnökös újságírós menedzseres barbáros testvéres
+241	fogyasztós gazemberes nyestes hőzöngős
+242	áriás fantomos madárijesztős magzatos
+243	mihályos lőrinces szinglis lacis keresztényes kommunistás bercis
+244	rest kénytelen képes felesleges fölösleges lehetetlen szabad muszáj érdemes célszerű
+245	tehermentes kezes hűtlen kiskorú nagykorú hatálytalan semmis érvénytelen szolgálati érvényes hatályos
+246	külföldi uniós európai
+247	szakszervezeti polgári közjogi szociális társadalmi intézményes egységes általános hátrányos
+248	egynemű egyenjogú egyenrangú azonos semleges
+249	egyes bizonyos dologi korlátos public saját külön egyéni csoportos közös
+250	multis multiplatformos konzolos platformos bugos unixos windowsos
+251	facebookos netes internetes céges mobil mobilos
+252	számítógépes hálózatos vonalas szabványos analóg
+253	link térképes szöveges scriptes klikkes linkes
+254	nettó bruttó frank gurus darabos hordós forintos dolláros ezres milliárdos
+255	filléres fapados emberes gépes komplett
+256	puttonyos magos csillagos sávos -ép ágyas holdas eves fokos
+257	jobbos balos középutas liberális nyugatos forradalmas délibábos gyökértelen nemzetietlen nemzeties irányzatos pártos baloldalias nemzetközies labancos kádáros
+258	simicskás mutyis libás barikádos chartás békejobbos néppártos
+259	jobbik RMDSZ-es MIÉP-es fideszes MDF-es
+260	világosi nyilas gömbös
+261	küszöbös középosztályos egérmozis gazdagos
+262	leadós ukrános kalmáros szotyós muszlimos olcsóbb
+263	társadalmiatlan proletáros -bizonytalan robinsonos matrónás tahós pertus állagos huncutos vilás
+264	iszlámos ausztráliás kisgazdás karteles vásárcsarnokos
+265	nemzetlen ragyogós csórós milliomosos
+266	csontvázas kriptás mitológiás keletes buddhás zsáneres
+267	nehéziparos polgáros pojácás struccos komondoros szászos alibis
+268	téeszes dadás házasos muslincás rosszabb
+269	önállós rádiótulajdonos indes bázispáros szervertulajdonos -friss lassabb
+270	püspökös rokonos feleséges orbános elnökös bandás edzős
+271	mentes független szocialistás torgyános kunczés
+272	szakmás szakos szakirányos eminens babitsos
+273	brummos légtelen macskátlan budoáros impressziós nyalábos dologias
+274	pacsirtás szikrás hektikás juhászos rácos tücskös banyás
+275	posztmodernes túlerős dámás
+276	prolis nomádos fenegyerekes íres ringyós
+277	akadékos nagyos fészkes ganéjos pizzériás mozgós torkos korhelyes -lelkes üstös
+278	pergamenes utcabálos revüs slumos hulladékos súgós cövekes kartelles varjús vackos vadonos mátkás
+279	összpontos csorba sörösüveges homokzsákos
+280	más szüzes másik -fás -kerek
+281	hangsúlytalan zöngétlen zöngés ligatúrás igés főneves mozzanatos tárgyas igei anyanyelvű kétnyelvű egynyelvű ószláv óír bolgáros fríg finnugoros személyneves
+282	pálmás gyémántos gyöngy bíbor
+283	szent glóriás liliomos gyertyás tömjénes
+284	csomós pöffös hirtelen bizony tajtékos zúzmarás felleges bárányfelhős madártalan bauxitos pernyés hullafoltos ólmos jegeces vakotás topánkás szőrmókos dunyhás csóvás üllős pacsmagos
+285	mord -mord konya ind
+286	igaz tar -igaz hars javas orv
+287	kényszerházas hosszabb lett tevés
+288	bohós szabolcskás teres jogias szellemies nyomatéktalan
+289	előjogos mindennapias kofás -zsíros nem-társadalmi szállóigés agykáros hazás
+290	hivatalnokos -komor szotykos dosztojevszkijes
+291	biedermeieres duhaj fád lassúdad löttyös pimpós mételyes
+292	beles elás hív ír kevés másod üdvöz telj eges
